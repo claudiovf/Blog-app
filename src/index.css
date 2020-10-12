@@ -1,0 +1,31 @@
+body {
+    margin: 24px;
+    font-family: Helvetica, sans-serif;
+  }
+  
+h1 {
+  color: rgb(6, 0, 192);
+}
+
+.error {
+  padding: 8px;
+  margin: 8px;
+  color: black;
+  border: 2px solid red;
+  background-color: rgba(255, 0, 0, 0.164);
+}
+
+.confirmed {
+  padding: 8px;
+  margin: 8px;
+  color: black;
+  border: 2px solid #0d967f;
+  background-color: #0d967f3d;
+}
+
+.blogOnList {
+  width: 100%;
+  padding: 8px;
+  margin: 4px;
+  border: 1px solid lightgray ;
+}

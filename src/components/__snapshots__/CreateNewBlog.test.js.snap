@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<form
+  className="blogForm"
+  onSubmit={[Function]}
+>
+  <h2>
+    Create New Blog
+  </h2>
+  <div>
+    Title:
+    <input
+      name="New Title"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>
+  <div>
+    Author:
+    <input
+      name="New Author"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>
+  <div>
+    Url:
+    <input
+      name="New Url"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>
+  <button
+    type="submit"
+  >
+    Create
+  </button>
+</form>
+`;

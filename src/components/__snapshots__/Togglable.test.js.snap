@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div>
+  <div
+    className="togglableContent"
+    style={
+      Object {
+        "display": "",
+      }
+    }
+  >
+     
+    <button
+      onClick={[Function]}
+    >
+       
+      view
+       
+    </button>
+  </div>
+  <div
+    className="visibleTogglable"
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+  >
+    
+     
+    <button
+      onClick={[Function]}
+    >
+       
+       
+    </button>
+    <div
+      className="testDiv"
+    />
+  </div>
+</div>
+`;

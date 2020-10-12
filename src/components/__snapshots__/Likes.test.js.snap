@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div>
+  Likes: 
+  30
+  <button
+    onClick={[Function]}
+  >
+    like
+  </button>
+</div>
+`;
